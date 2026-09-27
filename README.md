@@ -148,9 +148,9 @@ Promo code `MEMHACK99` gives $50 in free credits on Hindsight Cloud (apply after
 
 ## 9. Team:Gryffindor
 
-*S.Rahul Bangar*
-*S.Guru Poojitha*
-*M.spurthi*
-*P.sudeshna reddy*
-*S.Sarasij Reddy*
+*S.Rahul Bangar ,*
+*S.Guru Poojitha ,*
+*M.spurthi ,*
+*P.sudeshna reddy ,*
+*S.Sarasij Reddy ,*
 
