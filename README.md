@@ -150,7 +150,7 @@ Promo code `MEMHACK99` gives $50 in free credits on Hindsight Cloud (apply after
 
 *S.Rahul Bangar ,*
 *S.Guru Poojitha ,*
-*M.spurthi ,*
-*P.sudeshna reddy ,*
-*S.Sarasij Reddy ,*
+*M.Spurthi ,*
+*P.Sudeshna reddy ,*
+*S.Sarasij Reddy*
 
