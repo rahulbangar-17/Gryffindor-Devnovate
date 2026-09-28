@@ -7,16 +7,6 @@
 | **Team Name** | GRYFFINDOR |
 | **Team Members (5)** | 1. S. Rahul Bangar<br>2. S. Guru Poojitha<br>3. M. Spurthi<br>4. S. Sarasij Reddy<br>5. P. Sudeshna Reddy |
 | **Project Title** | AI Agents That Learn Using Hindsight |
-# AI Agents That Learn Using Hindsight
-
-## 1. Team Details
-
-| Field | Details |
-| :--- | :--- |
-| **Team Name** | GRYFFINDOR |
-| **Team Members (5)** | 1. S. Rahul Bangar<br>2. S. Guru Poojitha<br>3. M. Spurthi<br>4. S. Sarasij Reddy<br>5. P. Sudeshna Reddy |
-| **Project Title** | AI Agents That Learn Using Hindsight |
-| **GitHub Repository Link** | Add your GitHub repository link here |
 
 ---
 
